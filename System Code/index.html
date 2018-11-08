@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<title>Duet</title>
+
+	<link rel="stylesheet" type="text/css" href="fonts/Font-Awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/font.css">
+	<link rel="stylesheet" type="text/css" href="css/flip.css">
+	<link rel="stylesheet" type="text/css" href="css/tooltip.css">
+	<link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css">
+	<style id="color-style"></style>
+
+	<script src="vender/d3.v4.min.js"></script>
+	<script src="vender/jquery-3.2.1.min.js"></script>
+	<script src="vender/jquery-ui.min.js"></script>
+	<script src="vender/jquery.mousewheel.min.js"></script>
+	<script src="vender/flip.js"></script>
+	<script src="vender/FontLoader.js"></script>
+</head>
+
+<body>
+	<div id="col1" class="noselection">
+
+		<div id="setting-menu" class="ui-view remove-tag-zone">
+			<div class="header">Settings</div>
+			<div class="color-menu">
+				<span class="title">Color Palette:</span>
+				<select>
+					<option value="red-green">Red/Green</option>
+					<option value="colorblind-safe">Colorblind Safe</option>
+				</select>
+			</div>
+			<div class="file-menu">
+				<span class="title">Data:</span>
+				<span class="file-name">cars.csv</span>
+				<span class="fa fa-database change-file-button"></label>
+			</div>
+		</div>
+
+		<div id="attribute-list" class="ui-view">
+			<div class="search-box remove-tag-zone">
+				<span class="fa fa-search"></span>
+				<input type="text">
+			</div>
+			<div class="list">
+				<div class="id header expanded"><svg></svg></div>
+				<div class="id content"><svg></svg></div>
+
+				<div class="categorical header expanded"><svg></svg></div>
+				<div class="categorical content"><svg></svg></div>
+
+				<div class="numerical header expanded"><svg></svg></div>
+				<div class="numerical content"><svg></svg></div>
+			</div>
+		</div>
+
+		<div id="data-table" class="ui-view">
+			<div class="search-box remove-tag-zone">
+				<span class="fa fa-search"></span>
+				<input type="text">
+			</div>
+			<div class="header"><svg></svg></div>
+			<div class="content"><div class="wrapper"><svg></svg></div></div>
+			<div class="footer"><svg></svg></div>
+		</div>
+
+	</div>
+
+	<div id="col2" class="noselection">
+
+		<div id="comparison-panel" class="ui-view">
+			<div class="shelves"><svg></svg></div>
+			<div class="results remove-tag-zone"></div>
+		</div>
+
+	</div>
+
+	<div id="col3" class="noselection remove-tag-zone">
+
+		<div id="relationship-map" class="ui-view">
+
+			<svg></svg>
+			<span class="button fa fa-expand"></span>
+			<span class="button fa fa-remove"></span>
+			<span class="button fa fa-font"></span>
+			<span class="button fa fa-eraser"></span>
+
+			<div id="stored-attributes-panel" class="ui-view">
+				<div class="header">
+					<span>Stored Recommendations</span>
+					<span class="fa fa-close"></span>
+				</div>
+
+				<div class="content"></div>
+
+				<div class="footer">
+					<div class="search-box">
+						<span class="fa fa-search"></span>
+						<input type="text">
+					</div>
+
+					<div class="filters">
+						<span class="button s">10</span>
+						<span class="button n">10</span>
+						<span class="button d">10</span>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div id="value-discretizer" class="ui-view noselection">
+		<div class="header">
+			<span>Value Discretizer</span>
+		</div>
+
+		<div class="content">
+			<div class="number-line"><svg></svg></div>
+			<div class="text-input"></div>
+		</div>
+
+		<div class="footer">
+
+			<div class="cancel-btn button">
+				<i class="fa fa-remove"></i>Cancel
+			</div>
+
+			<div class="confirm-btn button">
+				<i class="fa fa-check"></i>Confirm
+			</div>
+
+		</div>
+	</div>
+
+	<div id="group-container" class="ui-view noselection">
+		<div class="header">
+			<input type="text" class="not-remove-group-container">
+		</div>
+
+		<div class="content">
+			<div class="container">
+				<svg class="not-remove-group-container"></svg>
+			</div>
+		</div>
+	</div>
+
+	<div id="dataset-menu" class="noselection ui-view">
+
+		<div class="header">Select a Data set</div>
+
+		<div class="content">
+			<div class="container"><div class="dummy"></div></div>
+		</div>
+
+		<div class="footer">
+			<div class="confirm-btn button"><i class="fa fa-check"></i>Confirm</div>
+			<div class="cancel-btn button"><i class="fa fa-times"></i>Cancel</div>
+		</div>
+
+	</div>
+
+	<div id="draggable-tag" class="noselection not-remove-group-container"></div>
+
+	<div id="system-reasoning-panel" class="ui-view noselection"></div>
+
+	<div id="tooltip"></div>
+
+	<div id="long-title-tooltip"></div>
+
+	<script src="js/start.js"></script>
+	<script src="js/fileSelectorHandler.js"></script>
+	<script src="js/database.js"></script>
+	<script src="js/viewRenderer.js"></script>
+	<script src="js/dataTable.js"></script>
+	<script src="js/attributeList.js"></script>
+	<script src="js/valueDiscretizer.js"></script>
+	<script src="js/comparisonShelves.js"></script>
+	<script src="js/draggableTag.js"></script>
+	<script src="js/systemReasoningPanel.js"></script>
+	<script src="js/textGenerator.js"></script>
+	<script src="js/groupContainer.js"></script>
+	<script src="js/body.js"></script>
+	<script src="js/graphStructure.js"></script>
+	<script src="js/graphVisualizer.js"></script>
+	<script src="js/graphSimilarityOperator.js"></script>
+	<script src="js/relationshipMap.js"></script>
+	<script src="js/storedAttributesPanel.js"></script>
+	<script src="js/barChartHelper.js"></script>
+	<script src="js/longTitleTooltip.js"></script>
+	<script src="js/changeGroupNameManager.js"></script>
+	<script src="js/colourManager.js"></script>
+	<script src="js/datasetMenu.js"></script>
+
+	<script src="js/operator.js"></script>
+	<script src="js/twoGroupOperator.js"></script>
+	<script src="js/twoGroupOneAttrOperator.js"></script>
+	<script src="js/oneGroupOneAttrOperator.js"></script>
+	<script src="js/oneGroupOperator.js"></script>
+
+	<script src="js/card.js"></script>
+	<script src="js/twoGroupCard.js"></script>
+	<script src="js/twoGroupOneAttrCard.js"></script>
+	<script src="js/oneGroupOneAttrCard.js"></script>
+	<script src="js/oneGroupCard.js"></script>
+	<script src="js/sameCard.js"></script>
+	<script src="js/noObjectsCard.js"></script>
+
+	<script src="js/helper.js"></script>
+</body>

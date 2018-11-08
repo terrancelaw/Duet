@@ -1,0 +1,13 @@
+fileName,oldGroupName,oldAttributeName,newGroupName,newAttributeName,attributeValue
+Clothing.csv,Recency:1,Freq12,Customers who recently purchased,Number of purchases in the last 12 months,10
+Clothing.csv,Recency:1,Freq12,Customers who recently purchased,Number of purchases in the last 12 months,6
+Clothing.csv,Recency:1,Freq12,Customers who recently purchased,Number of purchases in the last 12 months,5
+Clothing.csv,Recency:1,Freq12,Customers who recently purchased,Number of purchases in the last 12 months,3
+Clothing.csv,Recency:1,Freq12,Customers who recently purchased,Number of purchases in the last 12 months,5
+Clothing.csv,Recency:1,Freq12,Customers who recently purchased,Number of purchases in the last 12 months,4
+Clothing.csv,Recency:1,Freq12,Customers who recently purchased,Number of purchases in the last 12 months,6
+Clothing.csv,Recency:5,Freq12,Customers who did not recently purchase,Number of purchases in the last 12 months,5
+Clothing.csv,Recency:5,Freq12,Customers who did not recently purchase,Number of purchases in the last 12 months,2
+Clothing.csv,Recency:5,Freq12,Customers who did not recently purchase,Number of purchases in the last 12 months,5
+Clothing.csv,Recency:5,Freq12,Customers who did not recently purchase,Number of purchases in the last 12 months,3
+Clothing.csv,Recency:5,Freq12,Customers who did not recently purchase,Number of purchases in the last 12 months,3

@@ -1,0 +1,46 @@
+library(nnet);
+library(dplyr);
+
+data <- read.table("[YOUR FOLDER NAME]/Bh Coefficient + Labels.csv", header=T, sep=",")
+
+testing1 <- data[1:52,]
+testing2 <- data[53:104,]
+testing3 <- data[105:156,]
+testing4 <- data[157:208,]
+testing5 <- data[209:260,]
+testing6 <- data[261:312,]
+testing7 <- data[313:364,]
+testing8 <- data[365:416,]
+testing9 <- data[417:468,]
+testing10 <- data[469:520,]
+testingSets <- list(testing1, testing2, testing3, testing4, testing5, testing6, testing7, testing8, testing9, testing10)
+
+training1 <- setdiff(data, testing1)
+training2 <- setdiff(data, testing2)
+training3 <- setdiff(data, testing3)
+training4 <- setdiff(data, testing4)
+training5 <- setdiff(data, testing5)
+training6 <- setdiff(data, testing6)
+training7 <- setdiff(data, testing7)
+training8 <- setdiff(data, testing8)
+training9 <- setdiff(data, testing9)
+training10 <- setdiff(data, testing10)
+trainingSets <- list(training1, training2, training3, training4, training5, training6, training7, training8, training9, training10)
+
+accuracy.all = NULL;
+
+for (b in 1:10) {
+	training <- trainingSets[[b]];
+	testing <- testingSets[[b]];
+	class.true <- testing$class;
+
+	class.ref.n <- relevel(training$class, ref = "N");
+	logistic.reg.model <- multinom(class.ref.n ~ BhCoefficient, data=training);
+	class.predict <- predict(logistic.reg.model, newdata=testing, type="class");
+	correct <- sum(class.true == class.predict);
+	accuracy <- correct / dim(testing)[1];
+
+	accuracy.all <- c(accuracy.all, accuracy);
+}
+
+mean(accuracy.all);

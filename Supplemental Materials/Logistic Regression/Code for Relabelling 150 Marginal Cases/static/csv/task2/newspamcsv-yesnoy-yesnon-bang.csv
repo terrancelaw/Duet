@@ -1,0 +1,601 @@
+fileName,oldGroupName,oldAttributeName,newGroupName,newAttributeName,attributeValue
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.022
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.149
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.262
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.393
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.729
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.149
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.546
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.115
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.375
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.282
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.044
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,1.315
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.313
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.033
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.161
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.684
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.211
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.068
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.072
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.045
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.301
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.613
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,3.048
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.725
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.048
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.08
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.061
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.117
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.123
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.091
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.24
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.218
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.31
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,1.886
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.042
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.052
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.02
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.074
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.073
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.008
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.17
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.239
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.202
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.148
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.313
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.125
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.045
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.372
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.413
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.214
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.448
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,1.234
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.165
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.724
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.151
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.167
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.047
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.03
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.134
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.161
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.284
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.37
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.111
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.063
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.176
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.127
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.179
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.065
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.141
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.376
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.144
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.318
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.176
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.383
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.05
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.023
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.74
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.055
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.26
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.374
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.213
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.051
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.045
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.139
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.552
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.075
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.107
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.02
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.051
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.026
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.5
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0.09
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:n,bang,NOT spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.778
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.372
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.276
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.137
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.135
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.164
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.181
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.244
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.462
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.663
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.786
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.357
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.572
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.428
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.975
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.455
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.055
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.729
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.25
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.809
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.667
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.392
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.25
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.392
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.368
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.352
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.091
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.886
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,2.112
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.543
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.873
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.488
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.963
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.75
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.207
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.671
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.711
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.426
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.813
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.318
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.01
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.17
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.325
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.278
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.498
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.244
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.198
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.5
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.478
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.615
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.501
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.669
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.175
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.048
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.019
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,2.205
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.589
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.5
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.053
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.537
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.877
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.807
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.298
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.486
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.366
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.165
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.437
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.132
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.431
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.197
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.495
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.724
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.834
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.571
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.061
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.268
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.096
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.083
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.322
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.613
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.612
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.082
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.284
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.736
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.31
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.461
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.38
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.662
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.529
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.662
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.529
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.662
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.529
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.462
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.529
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.907
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.542
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.054
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.054
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.542
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.158
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.054
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.054
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.335
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.271
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.092
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.194
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.089
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.427
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.706
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.97
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.598
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.121
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.606
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.299
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.215
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.16
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.16
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.12
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.12
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.558
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.335
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.558
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.715
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.215
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.12
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.865
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.063
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.565
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.261
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.32
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.2
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.055
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.484
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.117
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.135
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.088
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.146
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.081
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.265
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.081
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.517
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.7
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.567
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.518
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.31
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.095
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.892
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.443
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.889
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.968
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.944
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.583
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.969
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.258
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.259
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.835
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.083
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.118
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.754
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.032
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.28
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.135
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.83
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.192
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.585
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.095
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.294
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.18
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.108
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.183
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.067
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.045
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.985
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.869
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.915
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.187
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.615
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.893
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.816
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.353
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.563
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.287
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.202
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.182
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.08
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.165
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.212
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.468
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.081
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.366
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.633
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.779
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.258
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.188
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.094
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.884
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.683
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.773
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.113
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.088
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.471
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.806
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.129
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.479
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.814
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.937
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.479
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.145
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.461
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.862
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,2.766
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.39
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.75
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.75
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,2.453
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.931
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.62
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.159
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.862
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.043
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.665
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.271
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.204
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.784
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.203
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.09
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.204
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.204
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.829
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.041
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.487
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.085
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.401
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.487
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.315
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.487
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.54
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.764
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.632
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.453
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.531
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.732
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.867
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.117
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.01
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.785
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.841
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,1.158
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.348
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.841
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.702
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.715
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.759
+new_spam.csv,yesno:y,bang,Spam emails,Number of occurrences of the ! symbol,0.242
