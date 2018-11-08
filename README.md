@@ -8,7 +8,8 @@ IEEE Transactions on Visualization and Computer Graphics ([IEEE VIS 2018](http:/
 
 ## Working Prototype
 
-There following is a working prototype of Duet. Chrome is recommended as the system was only tested with Chrome.  
+There following is a working prototype of Duet. Chrome is recommended as the system was only tested with Chrome.
+
 [https://duetpaircomp.github.io](https://duetpaircomp.github.io)
 
 ## System Demo
@@ -17,7 +18,7 @@ There following is a working prototype of Duet. Chrome is recommended as the sys
 
 ## Supplemental Materials
 
-Other supplemental materials associated with the paper can be found [here](https://github.com/DuetPairComp/supplemental).
+The supplemental materials associated with the paper can be found [here](https://github.com/DuetPairComp/supplemental).
 
 ## Contact
 
